@@ -36,7 +36,7 @@ Untuk mempelajari algoritma pemrograman, berikut adalah beberapa konsep yang per
 ** Algoritma Lanjutan
 
 - **Divide and Conquer** : Memecah masalah besar menjadi sub-masalah kecil.
-- ***Dynamic Programming* : Menggunakan solusi dari sub-masalah yang telah diselesaikan untuk menyelesaikan masalah yang lebih besar.
+- ***Dynamic Programming** : Menggunakan solusi dari sub-masalah yang telah diselesaikan untuk menyelesaikan masalah yang lebih besar.
 - **Greedy Algorithm** : Mengambil keputusan optimal di setiap langkah tanpa mempertimbangkan langkah selanjutnya.
 - **Backtracking** : Menulusuri semua kemungkinan solusi secara rekursif.
 
