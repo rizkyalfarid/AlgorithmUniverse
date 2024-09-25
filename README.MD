@@ -18,5 +18,30 @@ Untuk mempelajari algoritma pemrograman, berikut adalah beberapa konsep yang per
 2. Notasi algoritma : pseudocode dan diagram alur.
 3. Sifat-sifat algoritma : efisiensi, kejelasan, ketepatan.
 
+### Struktur Data Dasar 
 
+- **Arra** : Koleksi elemen dengan indeks.
+- **List, Stack, Queue** : Struktur data linier.
+- **Hash Table** : Struktur untuk penyimpanan key-value pairs.
+- **Tree (Binary Tree, Binary Search Tree)** : Struktur data hierarkis.
+- **Graph** : Node yang saling terhubung.
+
+
+### Algoritma Dasar 
+
+- **Sorting Algorithms** : Bubble Sort, Merge Sort, Quick Sort.
+- **Searching Algorithm** : Linear Search, Binary Search.
+- **Recursion** : Pemahaman dan aplikasi rekursif dalam pemecahan masalah.
+
+** Algoritma Lanjutan
+
+- **Divide and Conquer** : Memecah masalah besar menjadi sub-masalah kecil.
+- ***Dynamic Programming* : Menggunakan solusi dari sub-masalah yang telah diselesaikan untuk menyelesaikan masalah yang lebih besar.
+- **Greedy Algorithm** : Mengambil keputusan optimal di setiap langkah tanpa mempertimbangkan langkah selanjutnya.
+- **Backtracking** : Menulusuri semua kemungkinan solusi secara rekursif.
+
+### Praktek dan Implementasi 
+
+- Mengimplementasi algoritma dalam berbagai bahasa pemrograman (seperti Python, Java, c++, atau kotlin).
+- Memecah masalah coding dari yang sederhana hingga yang kompleks.
 
