@@ -8,3 +8,15 @@ Menurut **Thomas H.Cormen (2009:5)**, Algoritma adalah prosedur komputasi yang m
 
 Algoritma menurut **(Kani, 2020)** adalah suatu upaya dengan urutan operasi yang disusun secara logis dan sistematis untuk menyelesaikan suatu masalah untuk menghasilkan suatu output tertentu
 
+## Learning Path Belajar Algoritma dan Struktur Data Pemrograman
+
+Untuk mempelajari algoritma pemrograman, berikut adalah beberapa konsep yang perlu kita pelajari.
+
+### Pemahaman Dasat Teori & Praktik tentang algoritma
+
+1. Apa itu algoritma : langkah-langkah sistematis untuk memecah masalah
+2. Notasi algoritma : pseudocode dan diagram alur.
+3. Sifat-sifat algoritma : efisiensi, kejelasan, ketepatan.
+
+
+
